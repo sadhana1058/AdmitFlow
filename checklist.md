@@ -6,7 +6,7 @@
 ## Hour 1 — Data & Config Foundation
 > **Goal: All data sources ready, env wired up**
 
-- [ ] Fill `.env.local` with all keys
+[X] Fill `.env.local` with all keys
   ```
   GEMINI_API_KEY=
   GOOGLE_SERVICE_ACCOUNT_EMAIL=
